@@ -1,5 +1,4 @@
 # PMYSDP-Batch-3
-# PMYSDP-AI-Course
 # 🚀 PMYSDP AI Course Journey
 
 ## 📌 Overview
