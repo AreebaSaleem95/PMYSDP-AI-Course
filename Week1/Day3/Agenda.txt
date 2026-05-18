@@ -1,0 +1,8 @@
+
+
+Values, expressions, and statements 
+ Numbers, Booleans, Strings 
+ Operators, variables and keywords 
+String operations
+ Input and Type casting 
+ Comments

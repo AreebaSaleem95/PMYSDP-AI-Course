@@ -1,0 +1,1048 @@
+id,text
+1,Mixed CASE text should be lowercased
+2,"Newlines
+and	tabs should be handled properly."
+3,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+4,I love NLP. It’s amazing… <a href='link'>Click here</a>
+5,Numbers 12345 and 67890 are present in this text
+6,Check out this link: https://github.com/user/repo
+7,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+8,I am loving #MachineLearning and #DataScience 🌟
+9,Stemming and lemmatization are key for text normalization 🤖
+10,Python is awesome!!! Check out www.python.org 😎 #coding
+11,Emoji test: 😂🤣😍🔥✨💯
+12,Mixed CASE text should be lowercased
+13,Mentions: @user1 @user2 are included in tweets
+14,Stemming and lemmatization are key for text normalization 🤖
+15,Numbers 12345 and 67890 are present in this text
+16,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+17,"Python, Java, and C++ are programming languages."
+18,Python is awesome!!! Check out www.python.org 😎 #coding
+19,Email me at test@example.com or visit http://mywebsite.com
+20,Stemming and lemmatization are key for text normalization 🤖
+21,Numbers 12345 and 67890 are present in this text
+22,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+23,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+24,I am loving #MachineLearning and #DataScience 🌟
+25,Mixed CASE text should be lowercased
+26,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+27,Stemming and lemmatization are key for text normalization 🤖
+28,Mentions: @user1 @user2 are included in tweets
+29,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+30,Mixed CASE text should be lowercased
+31,I love NLP. It’s amazing… <a href='link'>Click here</a>
+32,Mixed CASE text should be lowercased
+33,Repeated letters: cooool loooove tweeeeet
+34,Python is awesome!!! Check out www.python.org 😎 #coding
+35,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+36,Special characters: @$%^&*() should be removed
+37,Python is awesome!!! Check out www.python.org 😎 #coding
+38,Stemming and lemmatization are key for text normalization 🤖
+39,"Newlines
+and	tabs should be handled properly."
+40,<p>Hello there! Visit https://example.com 😊</p>
+41,Check out this link: https://github.com/user/repo
+42,Mixed CASE text should be lowercased
+43,Special characters: @$%^&*() should be removed
+44,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+45,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+46,<p>Hello there! Visit https://example.com 😊</p>
+47,"Misspellings: recieve, definately, seperate should be fixed"
+48,Repeated letters: cooool loooove tweeeeet
+49,<p>Hello there! Visit https://example.com 😊</p>
+50,Emoji test: 😂🤣😍🔥✨💯
+51,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+52,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+53,I love NLP. It’s amazing… <a href='link'>Click here</a>
+54,Email me at test@example.com or visit http://mywebsite.com
+55,I love NLP. It’s amazing… <a href='link'>Click here</a>
+56,Email me at test@example.com or visit http://mywebsite.com
+57,Email me at test@example.com or visit http://mywebsite.com
+58,"Misspellings: recieve, definately, seperate should be fixed"
+59,Emoji test: 😂🤣😍🔥✨💯
+60,Emoji test: 😂🤣😍🔥✨💯
+61,Cleaning text is fun!!! Isn't it? 🤔
+62,"Python, Java, and C++ are programming languages."
+63,Cleaning text is fun!!! Isn't it? 🤔
+64,Email me at test@example.com or visit http://mywebsite.com
+65,Emoji test: 😂🤣😍🔥✨💯
+66,Cleaning text is fun!!! Isn't it? 🤔
+67,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+68,I love NLP. It’s amazing… <a href='link'>Click here</a>
+69,"Newlines
+and	tabs should be handled properly."
+70,Repeated letters: cooool loooove tweeeeet
+71,Check out this link: https://github.com/user/repo
+72,Stemming and lemmatization are key for text normalization 🤖
+73,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+74,I am loving #MachineLearning and #DataScience 🌟
+75,Cleaning text is fun!!! Isn't it? 🤔
+76,Cleaning text is fun!!! Isn't it? 🤔
+77,Cleaning text is fun!!! Isn't it? 🤔
+78,Email me at test@example.com or visit http://mywebsite.com
+79,Mentions: @user1 @user2 are included in tweets
+80,"Newlines
+and	tabs should be handled properly."
+81,I love NLP. It’s amazing… <a href='link'>Click here</a>
+82,"Misspellings: recieve, definately, seperate should be fixed"
+83,I am loving #MachineLearning and #DataScience 🌟
+84,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+85,Python is awesome!!! Check out www.python.org 😎 #coding
+86,"Misspellings: recieve, definately, seperate should be fixed"
+87,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+88,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+89,"Newlines
+and	tabs should be handled properly."
+90,I love NLP. It’s amazing… <a href='link'>Click here</a>
+91,Repeated letters: cooool loooove tweeeeet
+92,<p>Hello there! Visit https://example.com 😊</p>
+93,"Misspellings: recieve, definately, seperate should be fixed"
+94,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+95,I love NLP. It’s amazing… <a href='link'>Click here</a>
+96,"Newlines
+and	tabs should be handled properly."
+97,Repeated letters: cooool loooove tweeeeet
+98,Emoji test: 😂🤣😍🔥✨💯
+99,Email me at test@example.com or visit http://mywebsite.com
+100,Check out this link: https://github.com/user/repo
+101,I am loving #MachineLearning and #DataScience 🌟
+102,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+103,Emoji test: 😂🤣😍🔥✨💯
+104,I am loving #MachineLearning and #DataScience 🌟
+105,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+106,Mentions: @user1 @user2 are included in tweets
+107,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+108,<p>Hello there! Visit https://example.com 😊</p>
+109,Repeated letters: cooool loooove tweeeeet
+110,Email me at test@example.com or visit http://mywebsite.com
+111,Python is awesome!!! Check out www.python.org 😎 #coding
+112,I love NLP. It’s amazing… <a href='link'>Click here</a>
+113,I am loving #MachineLearning and #DataScience 🌟
+114,Mixed CASE text should be lowercased
+115,Special characters: @$%^&*() should be removed
+116,Special characters: @$%^&*() should be removed
+117,I love NLP. It’s amazing… <a href='link'>Click here</a>
+118,Email me at test@example.com or visit http://mywebsite.com
+119,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+120,Email me at test@example.com or visit http://mywebsite.com
+121,Email me at test@example.com or visit http://mywebsite.com
+122,Numbers 12345 and 67890 are present in this text
+123,Emoji test: 😂🤣😍🔥✨💯
+124,Cleaning text is fun!!! Isn't it? 🤔
+125,<p>Hello there! Visit https://example.com 😊</p>
+126,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+127,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+128,I am loving #MachineLearning and #DataScience 🌟
+129,Stemming and lemmatization are key for text normalization 🤖
+130,Emoji test: 😂🤣😍🔥✨💯
+131,Email me at test@example.com or visit http://mywebsite.com
+132,Python is awesome!!! Check out www.python.org 😎 #coding
+133,Repeated letters: cooool loooove tweeeeet
+134,Repeated letters: cooool loooove tweeeeet
+135,Repeated letters: cooool loooove tweeeeet
+136,Python is awesome!!! Check out www.python.org 😎 #coding
+137,<p>Hello there! Visit https://example.com 😊</p>
+138,<p>Hello there! Visit https://example.com 😊</p>
+139,Repeated letters: cooool loooove tweeeeet
+140,Numbers 12345 and 67890 are present in this text
+141,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+142,I love NLP. It’s amazing… <a href='link'>Click here</a>
+143,Check out this link: https://github.com/user/repo
+144,"Newlines
+and	tabs should be handled properly."
+145,Repeated letters: cooool loooove tweeeeet
+146,Python is awesome!!! Check out www.python.org 😎 #coding
+147,I am loving #MachineLearning and #DataScience 🌟
+148,Mixed CASE text should be lowercased
+149,"Python, Java, and C++ are programming languages."
+150,<p>Hello there! Visit https://example.com 😊</p>
+151,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+152,<p>Hello there! Visit https://example.com 😊</p>
+153,Mixed CASE text should be lowercased
+154,Stemming and lemmatization are key for text normalization 🤖
+155,Python is awesome!!! Check out www.python.org 😎 #coding
+156,Email me at test@example.com or visit http://mywebsite.com
+157,Python is awesome!!! Check out www.python.org 😎 #coding
+158,Mixed CASE text should be lowercased
+159,Stemming and lemmatization are key for text normalization 🤖
+160,Mentions: @user1 @user2 are included in tweets
+161,Special characters: @$%^&*() should be removed
+162,Python is awesome!!! Check out www.python.org 😎 #coding
+163,Emoji test: 😂🤣😍🔥✨💯
+164,"Misspellings: recieve, definately, seperate should be fixed"
+165,"Misspellings: recieve, definately, seperate should be fixed"
+166,<p>Hello there! Visit https://example.com 😊</p>
+167,Check out this link: https://github.com/user/repo
+168,I am loving #MachineLearning and #DataScience 🌟
+169,Numbers 12345 and 67890 are present in this text
+170,Cleaning text is fun!!! Isn't it? 🤔
+171,Stemming and lemmatization are key for text normalization 🤖
+172,<p>Hello there! Visit https://example.com 😊</p>
+173,Check out this link: https://github.com/user/repo
+174,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+175,<p>Hello there! Visit https://example.com 😊</p>
+176,Stemming and lemmatization are key for text normalization 🤖
+177,Cleaning text is fun!!! Isn't it? 🤔
+178,"Misspellings: recieve, definately, seperate should be fixed"
+179,Cleaning text is fun!!! Isn't it? 🤔
+180,I love NLP. It’s amazing… <a href='link'>Click here</a>
+181,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+182,"Newlines
+and	tabs should be handled properly."
+183,I am loving #MachineLearning and #DataScience 🌟
+184,Special characters: @$%^&*() should be removed
+185,Email me at test@example.com or visit http://mywebsite.com
+186,Python is awesome!!! Check out www.python.org 😎 #coding
+187,I am loving #MachineLearning and #DataScience 🌟
+188,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+189,Repeated letters: cooool loooove tweeeeet
+190,Mentions: @user1 @user2 are included in tweets
+191,Numbers 12345 and 67890 are present in this text
+192,"Misspellings: recieve, definately, seperate should be fixed"
+193,Email me at test@example.com or visit http://mywebsite.com
+194,I am loving #MachineLearning and #DataScience 🌟
+195,Mentions: @user1 @user2 are included in tweets
+196,Email me at test@example.com or visit http://mywebsite.com
+197,Emoji test: 😂🤣😍🔥✨💯
+198,Repeated letters: cooool loooove tweeeeet
+199,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+200,Mentions: @user1 @user2 are included in tweets
+201,"Python, Java, and C++ are programming languages."
+202,Numbers 12345 and 67890 are present in this text
+203,I am loving #MachineLearning and #DataScience 🌟
+204,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+205,Numbers 12345 and 67890 are present in this text
+206,Cleaning text is fun!!! Isn't it? 🤔
+207,Cleaning text is fun!!! Isn't it? 🤔
+208,Cleaning text is fun!!! Isn't it? 🤔
+209,Python is awesome!!! Check out www.python.org 😎 #coding
+210,Stemming and lemmatization are key for text normalization 🤖
+211,Repeated letters: cooool loooove tweeeeet
+212,<p>Hello there! Visit https://example.com 😊</p>
+213,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+214,Check out this link: https://github.com/user/repo
+215,Mentions: @user1 @user2 are included in tweets
+216,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+217,"Python, Java, and C++ are programming languages."
+218,Email me at test@example.com or visit http://mywebsite.com
+219,Cleaning text is fun!!! Isn't it? 🤔
+220,"Misspellings: recieve, definately, seperate should be fixed"
+221,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+222,I am loving #MachineLearning and #DataScience 🌟
+223,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+224,Email me at test@example.com or visit http://mywebsite.com
+225,Stemming and lemmatization are key for text normalization 🤖
+226,Mixed CASE text should be lowercased
+227,I love NLP. It’s amazing… <a href='link'>Click here</a>
+228,"Misspellings: recieve, definately, seperate should be fixed"
+229,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+230,Check out this link: https://github.com/user/repo
+231,"Newlines
+and	tabs should be handled properly."
+232,"Misspellings: recieve, definately, seperate should be fixed"
+233,Numbers 12345 and 67890 are present in this text
+234,Mentions: @user1 @user2 are included in tweets
+235,Mixed CASE text should be lowercased
+236,Repeated letters: cooool loooove tweeeeet
+237,I am loving #MachineLearning and #DataScience 🌟
+238,Emoji test: 😂🤣😍🔥✨💯
+239,Stemming and lemmatization are key for text normalization 🤖
+240,Check out this link: https://github.com/user/repo
+241,Check out this link: https://github.com/user/repo
+242,Repeated letters: cooool loooove tweeeeet
+243,Python is awesome!!! Check out www.python.org 😎 #coding
+244,Numbers 12345 and 67890 are present in this text
+245,Stemming and lemmatization are key for text normalization 🤖
+246,Special characters: @$%^&*() should be removed
+247,Stemming and lemmatization are key for text normalization 🤖
+248,Numbers 12345 and 67890 are present in this text
+249,Numbers 12345 and 67890 are present in this text
+250,Mixed CASE text should be lowercased
+251,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+252,Email me at test@example.com or visit http://mywebsite.com
+253,Cleaning text is fun!!! Isn't it? 🤔
+254,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+255,Cleaning text is fun!!! Isn't it? 🤔
+256,<p>Hello there! Visit https://example.com 😊</p>
+257,"Python, Java, and C++ are programming languages."
+258,"Newlines
+and	tabs should be handled properly."
+259,"Misspellings: recieve, definately, seperate should be fixed"
+260,I am loving #MachineLearning and #DataScience 🌟
+261,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+262,"Misspellings: recieve, definately, seperate should be fixed"
+263,Emoji test: 😂🤣😍🔥✨💯
+264,Cleaning text is fun!!! Isn't it? 🤔
+265,Cleaning text is fun!!! Isn't it? 🤔
+266,I love NLP. It’s amazing… <a href='link'>Click here</a>
+267,Mentions: @user1 @user2 are included in tweets
+268,"Misspellings: recieve, definately, seperate should be fixed"
+269,Check out this link: https://github.com/user/repo
+270,Cleaning text is fun!!! Isn't it? 🤔
+271,Mentions: @user1 @user2 are included in tweets
+272,"Newlines
+and	tabs should be handled properly."
+273,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+274,Numbers 12345 and 67890 are present in this text
+275,Mentions: @user1 @user2 are included in tweets
+276,Mixed CASE text should be lowercased
+277,Special characters: @$%^&*() should be removed
+278,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+279,Mixed CASE text should be lowercased
+280,Check out this link: https://github.com/user/repo
+281,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+282,Emoji test: 😂🤣😍🔥✨💯
+283,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+284,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+285,<p>Hello there! Visit https://example.com 😊</p>
+286,Stemming and lemmatization are key for text normalization 🤖
+287,Mentions: @user1 @user2 are included in tweets
+288,Python is awesome!!! Check out www.python.org 😎 #coding
+289,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+290,Numbers 12345 and 67890 are present in this text
+291,"Python, Java, and C++ are programming languages."
+292,Python is awesome!!! Check out www.python.org 😎 #coding
+293,"Misspellings: recieve, definately, seperate should be fixed"
+294,Email me at test@example.com or visit http://mywebsite.com
+295,Numbers 12345 and 67890 are present in this text
+296,Mentions: @user1 @user2 are included in tweets
+297,<p>Hello there! Visit https://example.com 😊</p>
+298,Stemming and lemmatization are key for text normalization 🤖
+299,"Misspellings: recieve, definately, seperate should be fixed"
+300,Mixed CASE text should be lowercased
+301,Special characters: @$%^&*() should be removed
+302,Check out this link: https://github.com/user/repo
+303,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+304,Mentions: @user1 @user2 are included in tweets
+305,Python is awesome!!! Check out www.python.org 😎 #coding
+306,Repeated letters: cooool loooove tweeeeet
+307,Email me at test@example.com or visit http://mywebsite.com
+308,<p>Hello there! Visit https://example.com 😊</p>
+309,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+310,Mentions: @user1 @user2 are included in tweets
+311,Numbers 12345 and 67890 are present in this text
+312,Cleaning text is fun!!! Isn't it? 🤔
+313,Emoji test: 😂🤣😍🔥✨💯
+314,"Python, Java, and C++ are programming languages."
+315,I love NLP. It’s amazing… <a href='link'>Click here</a>
+316,Cleaning text is fun!!! Isn't it? 🤔
+317,Numbers 12345 and 67890 are present in this text
+318,"Misspellings: recieve, definately, seperate should be fixed"
+319,Special characters: @$%^&*() should be removed
+320,Numbers 12345 and 67890 are present in this text
+321,Mentions: @user1 @user2 are included in tweets
+322,Email me at test@example.com or visit http://mywebsite.com
+323,Special characters: @$%^&*() should be removed
+324,Check out this link: https://github.com/user/repo
+325,Email me at test@example.com or visit http://mywebsite.com
+326,"Newlines
+and	tabs should be handled properly."
+327,Special characters: @$%^&*() should be removed
+328,Special characters: @$%^&*() should be removed
+329,Check out this link: https://github.com/user/repo
+330,Mixed CASE text should be lowercased
+331,I am loving #MachineLearning and #DataScience 🌟
+332,"Python, Java, and C++ are programming languages."
+333,Check out this link: https://github.com/user/repo
+334,<p>Hello there! Visit https://example.com 😊</p>
+335,Email me at test@example.com or visit http://mywebsite.com
+336,I am loving #MachineLearning and #DataScience 🌟
+337,"Python, Java, and C++ are programming languages."
+338,I am loving #MachineLearning and #DataScience 🌟
+339,"Misspellings: recieve, definately, seperate should be fixed"
+340,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+341,Emoji test: 😂🤣😍🔥✨💯
+342,"Newlines
+and	tabs should be handled properly."
+343,"Newlines
+and	tabs should be handled properly."
+344,"Python, Java, and C++ are programming languages."
+345,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+346,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+347,Repeated letters: cooool loooove tweeeeet
+348,Special characters: @$%^&*() should be removed
+349,Repeated letters: cooool loooove tweeeeet
+350,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+351,Special characters: @$%^&*() should be removed
+352,Repeated letters: cooool loooove tweeeeet
+353,Python is awesome!!! Check out www.python.org 😎 #coding
+354,Check out this link: https://github.com/user/repo
+355,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+356,"Misspellings: recieve, definately, seperate should be fixed"
+357,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+358,Numbers 12345 and 67890 are present in this text
+359,Cleaning text is fun!!! Isn't it? 🤔
+360,Mentions: @user1 @user2 are included in tweets
+361,Repeated letters: cooool loooove tweeeeet
+362,"Misspellings: recieve, definately, seperate should be fixed"
+363,Numbers 12345 and 67890 are present in this text
+364,Special characters: @$%^&*() should be removed
+365,Mentions: @user1 @user2 are included in tweets
+366,"Newlines
+and	tabs should be handled properly."
+367,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+368,"Misspellings: recieve, definately, seperate should be fixed"
+369,Mixed CASE text should be lowercased
+370,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+371,"Misspellings: recieve, definately, seperate should be fixed"
+372,Repeated letters: cooool loooove tweeeeet
+373,Emoji test: 😂🤣😍🔥✨💯
+374,"Python, Java, and C++ are programming languages."
+375,I am loving #MachineLearning and #DataScience 🌟
+376,Emoji test: 😂🤣😍🔥✨💯
+377,<p>Hello there! Visit https://example.com 😊</p>
+378,Check out this link: https://github.com/user/repo
+379,Emoji test: 😂🤣😍🔥✨💯
+380,"Misspellings: recieve, definately, seperate should be fixed"
+381,Repeated letters: cooool loooove tweeeeet
+382,I am loving #MachineLearning and #DataScience 🌟
+383,I am loving #MachineLearning and #DataScience 🌟
+384,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+385,Check out this link: https://github.com/user/repo
+386,"Python, Java, and C++ are programming languages."
+387,Emoji test: 😂🤣😍🔥✨💯
+388,Cleaning text is fun!!! Isn't it? 🤔
+389,Email me at test@example.com or visit http://mywebsite.com
+390,"Misspellings: recieve, definately, seperate should be fixed"
+391,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+392,Cleaning text is fun!!! Isn't it? 🤔
+393,Special characters: @$%^&*() should be removed
+394,Cleaning text is fun!!! Isn't it? 🤔
+395,<p>Hello there! Visit https://example.com 😊</p>
+396,Check out this link: https://github.com/user/repo
+397,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+398,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+399,"Newlines
+and	tabs should be handled properly."
+400,Mixed CASE text should be lowercased
+401,Numbers 12345 and 67890 are present in this text
+402,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+403,Cleaning text is fun!!! Isn't it? 🤔
+404,Stemming and lemmatization are key for text normalization 🤖
+405,Python is awesome!!! Check out www.python.org 😎 #coding
+406,I love NLP. It’s amazing… <a href='link'>Click here</a>
+407,Mentions: @user1 @user2 are included in tweets
+408,I am loving #MachineLearning and #DataScience 🌟
+409,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+410,Email me at test@example.com or visit http://mywebsite.com
+411,Python is awesome!!! Check out www.python.org 😎 #coding
+412,Mixed CASE text should be lowercased
+413,"Newlines
+and	tabs should be handled properly."
+414,Mixed CASE text should be lowercased
+415,Python is awesome!!! Check out www.python.org 😎 #coding
+416,Emoji test: 😂🤣😍🔥✨💯
+417,I am loving #MachineLearning and #DataScience 🌟
+418,Stemming and lemmatization are key for text normalization 🤖
+419,"Python, Java, and C++ are programming languages."
+420,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+421,"Newlines
+and	tabs should be handled properly."
+422,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+423,Numbers 12345 and 67890 are present in this text
+424,Cleaning text is fun!!! Isn't it? 🤔
+425,Special characters: @$%^&*() should be removed
+426,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+427,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+428,I am loving #MachineLearning and #DataScience 🌟
+429,Emoji test: 😂🤣😍🔥✨💯
+430,Email me at test@example.com or visit http://mywebsite.com
+431,Numbers 12345 and 67890 are present in this text
+432,Python is awesome!!! Check out www.python.org 😎 #coding
+433,Email me at test@example.com or visit http://mywebsite.com
+434,Python is awesome!!! Check out www.python.org 😎 #coding
+435,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+436,"Python, Java, and C++ are programming languages."
+437,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+438,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+439,Numbers 12345 and 67890 are present in this text
+440,"Newlines
+and	tabs should be handled properly."
+441,"Newlines
+and	tabs should be handled properly."
+442,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+443,"Newlines
+and	tabs should be handled properly."
+444,Python is awesome!!! Check out www.python.org 😎 #coding
+445,Python is awesome!!! Check out www.python.org 😎 #coding
+446,Special characters: @$%^&*() should be removed
+447,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+448,<p>Hello there! Visit https://example.com 😊</p>
+449,Python is awesome!!! Check out www.python.org 😎 #coding
+450,"Python, Java, and C++ are programming languages."
+451,Special characters: @$%^&*() should be removed
+452,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+453,"Misspellings: recieve, definately, seperate should be fixed"
+454,Python is awesome!!! Check out www.python.org 😎 #coding
+455,"Newlines
+and	tabs should be handled properly."
+456,Emoji test: 😂🤣😍🔥✨💯
+457,Mentions: @user1 @user2 are included in tweets
+458,Email me at test@example.com or visit http://mywebsite.com
+459,Mentions: @user1 @user2 are included in tweets
+460,Python is awesome!!! Check out www.python.org 😎 #coding
+461,Numbers 12345 and 67890 are present in this text
+462,Stemming and lemmatization are key for text normalization 🤖
+463,"Misspellings: recieve, definately, seperate should be fixed"
+464,Mixed CASE text should be lowercased
+465,"Newlines
+and	tabs should be handled properly."
+466,Email me at test@example.com or visit http://mywebsite.com
+467,Python is awesome!!! Check out www.python.org 😎 #coding
+468,Cleaning text is fun!!! Isn't it? 🤔
+469,Python is awesome!!! Check out www.python.org 😎 #coding
+470,Mentions: @user1 @user2 are included in tweets
+471,Numbers 12345 and 67890 are present in this text
+472,Mixed CASE text should be lowercased
+473,I am loving #MachineLearning and #DataScience 🌟
+474,Cleaning text is fun!!! Isn't it? 🤔
+475,Python is awesome!!! Check out www.python.org 😎 #coding
+476,Special characters: @$%^&*() should be removed
+477,Mixed CASE text should be lowercased
+478,Check out this link: https://github.com/user/repo
+479,Numbers 12345 and 67890 are present in this text
+480,<p>Hello there! Visit https://example.com 😊</p>
+481,I am loving #MachineLearning and #DataScience 🌟
+482,Numbers 12345 and 67890 are present in this text
+483,Repeated letters: cooool loooove tweeeeet
+484,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+485,Special characters: @$%^&*() should be removed
+486,Special characters: @$%^&*() should be removed
+487,I love NLP. It’s amazing… <a href='link'>Click here</a>
+488,Special characters: @$%^&*() should be removed
+489,Check out this link: https://github.com/user/repo
+490,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+491,I love NLP. It’s amazing… <a href='link'>Click here</a>
+492,"Newlines
+and	tabs should be handled properly."
+493,Mentions: @user1 @user2 are included in tweets
+494,I love NLP. It’s amazing… <a href='link'>Click here</a>
+495,Mentions: @user1 @user2 are included in tweets
+496,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+497,Mixed CASE text should be lowercased
+498,<p>Hello there! Visit https://example.com 😊</p>
+499,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+500,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+501,I am loving #MachineLearning and #DataScience 🌟
+502,Emoji test: 😂🤣😍🔥✨💯
+503,"Misspellings: recieve, definately, seperate should be fixed"
+504,Emoji test: 😂🤣😍🔥✨💯
+505,Repeated letters: cooool loooove tweeeeet
+506,Mixed CASE text should be lowercased
+507,I am loving #MachineLearning and #DataScience 🌟
+508,Email me at test@example.com or visit http://mywebsite.com
+509,"Newlines
+and	tabs should be handled properly."
+510,I love NLP. It’s amazing… <a href='link'>Click here</a>
+511,Stemming and lemmatization are key for text normalization 🤖
+512,Numbers 12345 and 67890 are present in this text
+513,Emoji test: 😂🤣😍🔥✨💯
+514,Mixed CASE text should be lowercased
+515,Cleaning text is fun!!! Isn't it? 🤔
+516,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+517,Email me at test@example.com or visit http://mywebsite.com
+518,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+519,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+520,"Newlines
+and	tabs should be handled properly."
+521,Numbers 12345 and 67890 are present in this text
+522,Cleaning text is fun!!! Isn't it? 🤔
+523,Mixed CASE text should be lowercased
+524,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+525,I love NLP. It’s amazing… <a href='link'>Click here</a>
+526,"Misspellings: recieve, definately, seperate should be fixed"
+527,Numbers 12345 and 67890 are present in this text
+528,Special characters: @$%^&*() should be removed
+529,<p>Hello there! Visit https://example.com 😊</p>
+530,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+531,Email me at test@example.com or visit http://mywebsite.com
+532,Repeated letters: cooool loooove tweeeeet
+533,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+534,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+535,"Python, Java, and C++ are programming languages."
+536,<p>Hello there! Visit https://example.com 😊</p>
+537,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+538,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+539,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+540,Special characters: @$%^&*() should be removed
+541,Email me at test@example.com or visit http://mywebsite.com
+542,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+543,Repeated letters: cooool loooove tweeeeet
+544,"Python, Java, and C++ are programming languages."
+545,Numbers 12345 and 67890 are present in this text
+546,Cleaning text is fun!!! Isn't it? 🤔
+547,Stemming and lemmatization are key for text normalization 🤖
+548,Check out this link: https://github.com/user/repo
+549,Emoji test: 😂🤣😍🔥✨💯
+550,Emoji test: 😂🤣😍🔥✨💯
+551,Repeated letters: cooool loooove tweeeeet
+552,I am loving #MachineLearning and #DataScience 🌟
+553,Mentions: @user1 @user2 are included in tweets
+554,Stemming and lemmatization are key for text normalization 🤖
+555,Repeated letters: cooool loooove tweeeeet
+556,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+557,Emoji test: 😂🤣😍🔥✨💯
+558,<p>Hello there! Visit https://example.com 😊</p>
+559,Mixed CASE text should be lowercased
+560,Mixed CASE text should be lowercased
+561,Cleaning text is fun!!! Isn't it? 🤔
+562,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+563,Numbers 12345 and 67890 are present in this text
+564,Numbers 12345 and 67890 are present in this text
+565,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+566,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+567,Check out this link: https://github.com/user/repo
+568,Python is awesome!!! Check out www.python.org 😎 #coding
+569,Email me at test@example.com or visit http://mywebsite.com
+570,"Python, Java, and C++ are programming languages."
+571,I am loving #MachineLearning and #DataScience 🌟
+572,"Python, Java, and C++ are programming languages."
+573,Special characters: @$%^&*() should be removed
+574,Check out this link: https://github.com/user/repo
+575,Email me at test@example.com or visit http://mywebsite.com
+576,Python is awesome!!! Check out www.python.org 😎 #coding
+577,Repeated letters: cooool loooove tweeeeet
+578,Stemming and lemmatization are key for text normalization 🤖
+579,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+580,I love NLP. It’s amazing… <a href='link'>Click here</a>
+581,Stemming and lemmatization are key for text normalization 🤖
+582,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+583,Numbers 12345 and 67890 are present in this text
+584,I am loving #MachineLearning and #DataScience 🌟
+585,Repeated letters: cooool loooove tweeeeet
+586,Mixed CASE text should be lowercased
+587,"Misspellings: recieve, definately, seperate should be fixed"
+588,Check out this link: https://github.com/user/repo
+589,Python is awesome!!! Check out www.python.org 😎 #coding
+590,<p>Hello there! Visit https://example.com 😊</p>
+591,Mentions: @user1 @user2 are included in tweets
+592,"Misspellings: recieve, definately, seperate should be fixed"
+593,Repeated letters: cooool loooove tweeeeet
+594,"Python, Java, and C++ are programming languages."
+595,"Newlines
+and	tabs should be handled properly."
+596,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+597,"Misspellings: recieve, definately, seperate should be fixed"
+598,Check out this link: https://github.com/user/repo
+599,Stemming and lemmatization are key for text normalization 🤖
+600,Mentions: @user1 @user2 are included in tweets
+601,Python is awesome!!! Check out www.python.org 😎 #coding
+602,Special characters: @$%^&*() should be removed
+603,Stemming and lemmatization are key for text normalization 🤖
+604,I love NLP. It’s amazing… <a href='link'>Click here</a>
+605,"Python, Java, and C++ are programming languages."
+606,Repeated letters: cooool loooove tweeeeet
+607,Repeated letters: cooool loooove tweeeeet
+608,Python is awesome!!! Check out www.python.org 😎 #coding
+609,Python is awesome!!! Check out www.python.org 😎 #coding
+610,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+611,Mentions: @user1 @user2 are included in tweets
+612,I love NLP. It’s amazing… <a href='link'>Click here</a>
+613,Python is awesome!!! Check out www.python.org 😎 #coding
+614,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+615,Mixed CASE text should be lowercased
+616,Mixed CASE text should be lowercased
+617,I love NLP. It’s amazing… <a href='link'>Click here</a>
+618,"Python, Java, and C++ are programming languages."
+619,Mixed CASE text should be lowercased
+620,I love NLP. It’s amazing… <a href='link'>Click here</a>
+621,"Misspellings: recieve, definately, seperate should be fixed"
+622,Mixed CASE text should be lowercased
+623,Email me at test@example.com or visit http://mywebsite.com
+624,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+625,Special characters: @$%^&*() should be removed
+626,Mixed CASE text should be lowercased
+627,<p>Hello there! Visit https://example.com 😊</p>
+628,I am loving #MachineLearning and #DataScience 🌟
+629,Stemming and lemmatization are key for text normalization 🤖
+630,I love NLP. It’s amazing… <a href='link'>Click here</a>
+631,"Misspellings: recieve, definately, seperate should be fixed"
+632,"Misspellings: recieve, definately, seperate should be fixed"
+633,"Python, Java, and C++ are programming languages."
+634,Mixed CASE text should be lowercased
+635,<p>Hello there! Visit https://example.com 😊</p>
+636,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+637,"Newlines
+and	tabs should be handled properly."
+638,I am loving #MachineLearning and #DataScience 🌟
+639,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+640,<p>Hello there! Visit https://example.com 😊</p>
+641,I love NLP. It’s amazing… <a href='link'>Click here</a>
+642,Repeated letters: cooool loooove tweeeeet
+643,Cleaning text is fun!!! Isn't it? 🤔
+644,Cleaning text is fun!!! Isn't it? 🤔
+645,Numbers 12345 and 67890 are present in this text
+646,Check out this link: https://github.com/user/repo
+647,Special characters: @$%^&*() should be removed
+648,I love NLP. It’s amazing… <a href='link'>Click here</a>
+649,Email me at test@example.com or visit http://mywebsite.com
+650,Repeated letters: cooool loooove tweeeeet
+651,Repeated letters: cooool loooove tweeeeet
+652,"Python, Java, and C++ are programming languages."
+653,Cleaning text is fun!!! Isn't it? 🤔
+654,Email me at test@example.com or visit http://mywebsite.com
+655,Emoji test: 😂🤣😍🔥✨💯
+656,I love NLP. It’s amazing… <a href='link'>Click here</a>
+657,Cleaning text is fun!!! Isn't it? 🤔
+658,I love NLP. It’s amazing… <a href='link'>Click here</a>
+659,Mentions: @user1 @user2 are included in tweets
+660,Email me at test@example.com or visit http://mywebsite.com
+661,Cleaning text is fun!!! Isn't it? 🤔
+662,Python is awesome!!! Check out www.python.org 😎 #coding
+663,I am loving #MachineLearning and #DataScience 🌟
+664,Mixed CASE text should be lowercased
+665,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+666,I love NLP. It’s amazing… <a href='link'>Click here</a>
+667,Python is awesome!!! Check out www.python.org 😎 #coding
+668,Check out this link: https://github.com/user/repo
+669,Check out this link: https://github.com/user/repo
+670,Repeated letters: cooool loooove tweeeeet
+671,"Misspellings: recieve, definately, seperate should be fixed"
+672,Mentions: @user1 @user2 are included in tweets
+673,"Python, Java, and C++ are programming languages."
+674,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+675,I am loving #MachineLearning and #DataScience 🌟
+676,Emoji test: 😂🤣😍🔥✨💯
+677,Check out this link: https://github.com/user/repo
+678,Repeated letters: cooool loooove tweeeeet
+679,Repeated letters: cooool loooove tweeeeet
+680,Stemming and lemmatization are key for text normalization 🤖
+681,I love NLP. It’s amazing… <a href='link'>Click here</a>
+682,<p>Hello there! Visit https://example.com 😊</p>
+683,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+684,Repeated letters: cooool loooove tweeeeet
+685,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+686,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+687,Emoji test: 😂🤣😍🔥✨💯
+688,"Newlines
+and	tabs should be handled properly."
+689,Stemming and lemmatization are key for text normalization 🤖
+690,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+691,"Python, Java, and C++ are programming languages."
+692,Cleaning text is fun!!! Isn't it? 🤔
+693,I love NLP. It’s amazing… <a href='link'>Click here</a>
+694,Stemming and lemmatization are key for text normalization 🤖
+695,"Misspellings: recieve, definately, seperate should be fixed"
+696,Cleaning text is fun!!! Isn't it? 🤔
+697,Numbers 12345 and 67890 are present in this text
+698,I love NLP. It’s amazing… <a href='link'>Click here</a>
+699,Repeated letters: cooool loooove tweeeeet
+700,"Newlines
+and	tabs should be handled properly."
+701,Check out this link: https://github.com/user/repo
+702,I am loving #MachineLearning and #DataScience 🌟
+703,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+704,Emoji test: 😂🤣😍🔥✨💯
+705,<p>Hello there! Visit https://example.com 😊</p>
+706,<p>Hello there! Visit https://example.com 😊</p>
+707,Numbers 12345 and 67890 are present in this text
+708,Mixed CASE text should be lowercased
+709,<p>Hello there! Visit https://example.com 😊</p>
+710,I love NLP. It’s amazing… <a href='link'>Click here</a>
+711,I love NLP. It’s amazing… <a href='link'>Click here</a>
+712,Check out this link: https://github.com/user/repo
+713,Check out this link: https://github.com/user/repo
+714,I love NLP. It’s amazing… <a href='link'>Click here</a>
+715,I love NLP. It’s amazing… <a href='link'>Click here</a>
+716,Numbers 12345 and 67890 are present in this text
+717,"Python, Java, and C++ are programming languages."
+718,Mentions: @user1 @user2 are included in tweets
+719,Mentions: @user1 @user2 are included in tweets
+720,Numbers 12345 and 67890 are present in this text
+721,"Misspellings: recieve, definately, seperate should be fixed"
+722,Emoji test: 😂🤣😍🔥✨💯
+723,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+724,Stemming and lemmatization are key for text normalization 🤖
+725,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+726,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+727,Emoji test: 😂🤣😍🔥✨💯
+728,Python is awesome!!! Check out www.python.org 😎 #coding
+729,Mixed CASE text should be lowercased
+730,Mixed CASE text should be lowercased
+731,Cleaning text is fun!!! Isn't it? 🤔
+732,Cleaning text is fun!!! Isn't it? 🤔
+733,Python is awesome!!! Check out www.python.org 😎 #coding
+734,Mentions: @user1 @user2 are included in tweets
+735,Repeated letters: cooool loooove tweeeeet
+736,"Newlines
+and	tabs should be handled properly."
+737,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+738,Check out this link: https://github.com/user/repo
+739,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+740,Email me at test@example.com or visit http://mywebsite.com
+741,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+742,Repeated letters: cooool loooove tweeeeet
+743,Email me at test@example.com or visit http://mywebsite.com
+744,Repeated letters: cooool loooove tweeeeet
+745,<p>Hello there! Visit https://example.com 😊</p>
+746,Stemming and lemmatization are key for text normalization 🤖
+747,I love NLP. It’s amazing… <a href='link'>Click here</a>
+748,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+749,Numbers 12345 and 67890 are present in this text
+750,Numbers 12345 and 67890 are present in this text
+751,Python is awesome!!! Check out www.python.org 😎 #coding
+752,Python is awesome!!! Check out www.python.org 😎 #coding
+753,Repeated letters: cooool loooove tweeeeet
+754,Cleaning text is fun!!! Isn't it? 🤔
+755,Email me at test@example.com or visit http://mywebsite.com
+756,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+757,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+758,"Newlines
+and	tabs should be handled properly."
+759,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+760,I love NLP. It’s amazing… <a href='link'>Click here</a>
+761,"Python, Java, and C++ are programming languages."
+762,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+763,Emoji test: 😂🤣😍🔥✨💯
+764,Repeated letters: cooool loooove tweeeeet
+765,Repeated letters: cooool loooove tweeeeet
+766,Check out this link: https://github.com/user/repo
+767,I am loving #MachineLearning and #DataScience 🌟
+768,I am loving #MachineLearning and #DataScience 🌟
+769,"Newlines
+and	tabs should be handled properly."
+770,Email me at test@example.com or visit http://mywebsite.com
+771,"Misspellings: recieve, definately, seperate should be fixed"
+772,Python is awesome!!! Check out www.python.org 😎 #coding
+773,Stemming and lemmatization are key for text normalization 🤖
+774,Check out this link: https://github.com/user/repo
+775,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+776,I love NLP. It’s amazing… <a href='link'>Click here</a>
+777,"Misspellings: recieve, definately, seperate should be fixed"
+778,"Python, Java, and C++ are programming languages."
+779,I am loving #MachineLearning and #DataScience 🌟
+780,Cleaning text is fun!!! Isn't it? 🤔
+781,Emoji test: 😂🤣😍🔥✨💯
+782,Numbers 12345 and 67890 are present in this text
+783,Mentions: @user1 @user2 are included in tweets
+784,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+785,I am loving #MachineLearning and #DataScience 🌟
+786,Python is awesome!!! Check out www.python.org 😎 #coding
+787,Special characters: @$%^&*() should be removed
+788,<p>Hello there! Visit https://example.com 😊</p>
+789,Cleaning text is fun!!! Isn't it? 🤔
+790,Stemming and lemmatization are key for text normalization 🤖
+791,Cleaning text is fun!!! Isn't it? 🤔
+792,Special characters: @$%^&*() should be removed
+793,"Python, Java, and C++ are programming languages."
+794,I love NLP. It’s amazing… <a href='link'>Click here</a>
+795,Email me at test@example.com or visit http://mywebsite.com
+796,Repeated letters: cooool loooove tweeeeet
+797,"Python, Java, and C++ are programming languages."
+798,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+799,Numbers 12345 and 67890 are present in this text
+800,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+801,<p>Hello there! Visit https://example.com 😊</p>
+802,Numbers 12345 and 67890 are present in this text
+803,Mixed CASE text should be lowercased
+804,Special characters: @$%^&*() should be removed
+805,Numbers 12345 and 67890 are present in this text
+806,Check out this link: https://github.com/user/repo
+807,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+808,<p>Hello there! Visit https://example.com 😊</p>
+809,"Newlines
+and	tabs should be handled properly."
+810,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+811,"Newlines
+and	tabs should be handled properly."
+812,Check out this link: https://github.com/user/repo
+813,Numbers 12345 and 67890 are present in this text
+814,I am loving #MachineLearning and #DataScience 🌟
+815,Mixed CASE text should be lowercased
+816,Mentions: @user1 @user2 are included in tweets
+817,Special characters: @$%^&*() should be removed
+818,"Misspellings: recieve, definately, seperate should be fixed"
+819,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+820,Special characters: @$%^&*() should be removed
+821,"Misspellings: recieve, definately, seperate should be fixed"
+822,"Newlines
+and	tabs should be handled properly."
+823,I am loving #MachineLearning and #DataScience 🌟
+824,Mixed CASE text should be lowercased
+825,"Python, Java, and C++ are programming languages."
+826,"Newlines
+and	tabs should be handled properly."
+827,Email me at test@example.com or visit http://mywebsite.com
+828,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+829,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+830,Stemming and lemmatization are key for text normalization 🤖
+831,Check out this link: https://github.com/user/repo
+832,Stemming and lemmatization are key for text normalization 🤖
+833,Email me at test@example.com or visit http://mywebsite.com
+834,Email me at test@example.com or visit http://mywebsite.com
+835,I love NLP. It’s amazing… <a href='link'>Click here</a>
+836,Numbers 12345 and 67890 are present in this text
+837,Emoji test: 😂🤣😍🔥✨💯
+838,Special characters: @$%^&*() should be removed
+839,Mixed CASE text should be lowercased
+840,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+841,Repeated letters: cooool loooove tweeeeet
+842,Repeated letters: cooool loooove tweeeeet
+843,I love NLP. It’s amazing… <a href='link'>Click here</a>
+844,"Misspellings: recieve, definately, seperate should be fixed"
+845,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+846,<p>Hello there! Visit https://example.com 😊</p>
+847,Repeated letters: cooool loooove tweeeeet
+848,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+849,"Newlines
+and	tabs should be handled properly."
+850,Repeated letters: cooool loooove tweeeeet
+851,Python is awesome!!! Check out www.python.org 😎 #coding
+852,I love NLP. It’s amazing… <a href='link'>Click here</a>
+853,Emoji test: 😂🤣😍🔥✨💯
+854,Email me at test@example.com or visit http://mywebsite.com
+855,Email me at test@example.com or visit http://mywebsite.com
+856,Repeated letters: cooool loooove tweeeeet
+857,Check out this link: https://github.com/user/repo
+858,Repeated letters: cooool loooove tweeeeet
+859,I am loving #MachineLearning and #DataScience 🌟
+860,"Misspellings: recieve, definately, seperate should be fixed"
+861,<p>Hello there! Visit https://example.com 😊</p>
+862,<p>Hello there! Visit https://example.com 😊</p>
+863,I love NLP. It’s amazing… <a href='link'>Click here</a>
+864,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+865,I love NLP. It’s amazing… <a href='link'>Click here</a>
+866,I am loving #MachineLearning and #DataScience 🌟
+867,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+868,Stemming and lemmatization are key for text normalization 🤖
+869,"Misspellings: recieve, definately, seperate should be fixed"
+870,I am loving #MachineLearning and #DataScience 🌟
+871,I am loving #MachineLearning and #DataScience 🌟
+872,Email me at test@example.com or visit http://mywebsite.com
+873,Mixed CASE text should be lowercased
+874,Cleaning text is fun!!! Isn't it? 🤔
+875,"Misspellings: recieve, definately, seperate should be fixed"
+876,Python is awesome!!! Check out www.python.org 😎 #coding
+877,Mixed CASE text should be lowercased
+878,<p>Hello there! Visit https://example.com 😊</p>
+879,<p>Hello there! Visit https://example.com 😊</p>
+880,"Misspellings: recieve, definately, seperate should be fixed"
+881,<p>Hello there! Visit https://example.com 😊</p>
+882,I am loving #MachineLearning and #DataScience 🌟
+883,Repeated letters: cooool loooove tweeeeet
+884,I love NLP. It’s amazing… <a href='link'>Click here</a>
+885,"Newlines
+and	tabs should be handled properly."
+886,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+887,Numbers 12345 and 67890 are present in this text
+888,Cleaning text is fun!!! Isn't it? 🤔
+889,Stemming and lemmatization are key for text normalization 🤖
+890,Email me at test@example.com or visit http://mywebsite.com
+891,<p>Hello there! Visit https://example.com 😊</p>
+892,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+893,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+894,"Misspellings: recieve, definately, seperate should be fixed"
+895,Emoji test: 😂🤣😍🔥✨💯
+896,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+897,Numbers 12345 and 67890 are present in this text
+898,I am loving #MachineLearning and #DataScience 🌟
+899,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+900,Repeated letters: cooool loooove tweeeeet
+901,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+902,Repeated letters: cooool loooove tweeeeet
+903,"Newlines
+and	tabs should be handled properly."
+904,I am loving #MachineLearning and #DataScience 🌟
+905,Emoji test: 😂🤣😍🔥✨💯
+906,Check out this link: https://github.com/user/repo
+907,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+908,I am loving #MachineLearning and #DataScience 🌟
+909,Email me at test@example.com or visit http://mywebsite.com
+910,Special characters: @$%^&*() should be removed
+911,Python is awesome!!! Check out www.python.org 😎 #coding
+912,Mentions: @user1 @user2 are included in tweets
+913,I am loving #MachineLearning and #DataScience 🌟
+914,I am loving #MachineLearning and #DataScience 🌟
+915,Special characters: @$%^&*() should be removed
+916,"Newlines
+and	tabs should be handled properly."
+917,Special characters: @$%^&*() should be removed
+918,Cleaning text is fun!!! Isn't it? 🤔
+919,Email me at test@example.com or visit http://mywebsite.com
+920,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+921,Mixed CASE text should be lowercased
+922,"Newlines
+and	tabs should be handled properly."
+923,I am loving #MachineLearning and #DataScience 🌟
+924,<p>Hello there! Visit https://example.com 😊</p>
+925,<p>Hello there! Visit https://example.com 😊</p>
+926,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+927,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+928,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+929,Mentions: @user1 @user2 are included in tweets
+930,Cleaning text is fun!!! Isn't it? 🤔
+931,"Python, Java, and C++ are programming languages."
+932,Numbers 12345 and 67890 are present in this text
+933,Email me at test@example.com or visit http://mywebsite.com
+934,Check out this link: https://github.com/user/repo
+935,Cleaning text is fun!!! Isn't it? 🤔
+936,Numbers 12345 and 67890 are present in this text
+937,Check out this link: https://github.com/user/repo
+938,Mentions: @user1 @user2 are included in tweets
+939,I love NLP. It’s amazing… <a href='link'>Click here</a>
+940,Emoji test: 😂🤣😍🔥✨💯
+941,"Misspellings: recieve, definately, seperate should be fixed"
+942,Special characters: @$%^&*() should be removed
+943,"Python, Java, and C++ are programming languages."
+944,I am loving #MachineLearning and #DataScience 🌟
+945,Cleaning text is fun!!! Isn't it? 🤔
+946,"Python, Java, and C++ are programming languages."
+947,<p>Hello there! Visit https://example.com 😊</p>
+948,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+949,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+950,Stemming and lemmatization are key for text normalization 🤖
+951,Mixed CASE text should be lowercased
+952,I am loving #MachineLearning and #DataScience 🌟
+953,I am loving #MachineLearning and #DataScience 🌟
+954,Repeated letters: cooool loooove tweeeeet
+955,Python is awesome!!! Check out www.python.org 😎 #coding
+956,"Newlines
+and	tabs should be handled properly."
+957,Special characters: @$%^&*() should be removed
+958,Repeated letters: cooool loooove tweeeeet
+959,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+960,I am loving #MachineLearning and #DataScience 🌟
+961,Special characters: @$%^&*() should be removed
+962,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+963,Check out this link: https://github.com/user/repo
+964,Python is awesome!!! Check out www.python.org 😎 #coding
+965,Stemming and lemmatization are key for text normalization 🤖
+966,I am loving #MachineLearning and #DataScience 🌟
+967,Check out this link: https://github.com/user/repo
+968,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+969,"Python, Java, and C++ are programming languages."
+970,Repeated letters: cooool loooove tweeeeet
+971,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+972,Python is awesome!!! Check out www.python.org 😎 #coding
+973,Email me at test@example.com or visit http://mywebsite.com
+974,Numbers 12345 and 67890 are present in this text
+975,I am loving #MachineLearning and #DataScience 🌟
+976,Special characters: @$%^&*() should be removed
+977,Repeated letters: cooool loooove tweeeeet
+978,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+979,Repeated letters: cooool loooove tweeeeet
+980,Cleaning text is fun!!! Isn't it? 🤔
+981,"Newlines
+and	tabs should be handled properly."
+982,Numbers 12345 and 67890 are present in this text
+983,Special characters: @$%^&*() should be removed
+984,I love NLP. It’s amazing… <a href='link'>Click here</a>
+985,I love NLP. It’s amazing… <a href='link'>Click here</a>
+986,"Newlines
+and	tabs should be handled properly."
+987,"Newlines
+and	tabs should be handled properly."
+988,<div>HTML tags everywhere! <b>Bold</b> and <i>Italic</i></div>
+989,Email me at test@example.com or visit http://mywebsite.com
+990,Email me at test@example.com or visit http://mywebsite.com
+991,Email me at test@example.com or visit http://mywebsite.com
+992,Data Science > AI & ML. Let's clean & preprocess text data! 🧹
+993,Cleaning text is fun!!! Isn't it? 🤔
+994,"Remove punctuation, lowercase, and stopwords from THIS sentence."
+995,"Newlines
+and	tabs should be handled properly."
+996,I love NLP. It’s amazing… <a href='link'>Click here</a>
+997,Repeated letters: cooool loooove tweeeeet
+998,Email me at test@example.com or visit http://mywebsite.com
+999,Email me at test@example.com or visit http://mywebsite.com
+1000,Emoji test: 😂🤣😍🔥✨💯

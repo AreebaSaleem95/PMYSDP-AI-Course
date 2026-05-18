@@ -1,0 +1,13 @@
+Create a New Environment:
+   => conda create --name myenv python=3.10
+Activate the Environment:
+   => conda activate myenv
+Install Packages (Optional):
+   => conda install numpy
+   => pip install pandas
+See All Environments:
+   => conda env list
+Deactivate Environment:
+   => conda deactivate
+
+

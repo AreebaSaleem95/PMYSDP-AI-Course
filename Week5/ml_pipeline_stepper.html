@@ -1,0 +1,147 @@
+
+<style>
+.pip-wrap{padding:16px 0;font-family:var(--font-sans)}
+.pip-dots{display:flex;gap:8px;justify-content:center;margin-bottom:18px;flex-wrap:wrap}
+.pip-dot{width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;cursor:pointer;border:1.5px solid var(--color-border-secondary);color:var(--color-text-secondary);transition:all .2s}
+.pip-dot.active{border-color:#534AB7;background:#EEEDFE;color:#3C3489}
+.pip-dot.done{background:#E1F5EE;border-color:#0F6E56;color:#085041}
+.pip-card{border:1px solid var(--color-border-tertiary);border-radius:12px;padding:20px;background:var(--color-background-secondary);min-height:260px}
+.pip-header{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.pip-badge{padding:4px 12px;border-radius:20px;font-size:11px;font-weight:500}
+.pip-title{font-size:17px;font-weight:500;color:var(--color-text-primary)}
+.pip-subtitle{font-size:13px;color:var(--color-text-secondary);margin-bottom:16px}
+.pip-body{font-size:14px;color:var(--color-text-primary);line-height:1.75}
+.pip-example{margin-top:14px;padding:12px 14px;border-radius:8px;border-left:3px solid #7F77DD;background:var(--color-background-primary);font-size:13px;color:var(--color-text-secondary)}
+.pip-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.pip-tag{padding:3px 10px;border-radius:12px;font-size:11px;font-weight:500;background:var(--color-background-primary);border:1px solid var(--color-border-secondary);color:var(--color-text-secondary)}
+.pip-nav{display:flex;justify-content:space-between;align-items:center;margin-top:16px}
+.pip-btn{padding:8px 20px;border-radius:8px;border:1px solid var(--color-border-secondary);background:var(--color-background-secondary);color:var(--color-text-primary);font-size:13px;cursor:pointer;transition:all .15s}
+.pip-btn:hover{background:var(--color-background-primary);border-color:var(--color-border-primary)}
+.pip-btn:disabled{opacity:0.35;cursor:not-allowed}
+.pip-counter{font-size:12px;color:var(--color-text-tertiary)}
+</style>
+
+<div class="pip-wrap">
+  <div class="pip-dots" id="dots"></div>
+  <div class="pip-card" id="card"></div>
+</div>
+
+<script>
+const steps = [
+  {
+    num:1, label:"Data", color:"#534AB7", bg:"#EEEDFE", textColor:"#3C3489",
+    title:"Data Collection — Data Jama Karna",
+    subtitle:"Pehla qadam: Apne masle ke liye sahi data dhundna aur jama karna",
+    body:`<b>Kya karte hain?</b> Is step mein hum woh raw information jama karte hain jisse machine seekhegi. Bina data ke ML mumkin nahi — data hi machine ki "padhai" hai.<br><br>
+<b>Data kahan se aata hai?</b><br>
+• <b>Databases</b> — company ke stored records<br>
+• <b>Web scraping</b> — websites se data uthana<br>
+• <b>APIs</b> — dusray services se data lena<br>
+• <b>Surveys / Forms</b> — logon se seedha collect karna<br>
+• <b>Sensors / IoT</b> — devices se real-time data`,
+    example:"Misaal: Agar aap ghar ki qeemat predict karna chahte ho, toh aapko area, rooms, location, sale price jaise data chahiye.",
+    tags:["CSV files","SQL database","APIs","Web scraping","Surveys"]
+  },
+  {
+    num:2, label:"Pre-proc", color:"#0F6E56", bg:"#E1F5EE", textColor:"#085041",
+    title:"Preprocessing — Data Saaf aur Tayyar Karna",
+    subtitle:"Data aksar gandha hota hai — use saaf karna zaroori hai",
+    body:`<b>Kya problems hoti hain raw data mein?</b><br>
+• <b>Missing values</b> — kuch cells khaali hoti hain<br>
+• <b>Duplicates</b> — ek hi cheez do baar ho<br>
+• <b>Outliers</b> — galat ya ajeeb values (e.g. umar = 999)<br>
+• <b>Wrong format</b> — date "01-01-2024" aur "Jan 1 2024" dono<br><br>
+<b>Solutions:</b><br>
+• Missing values → average/median se fill karein ya row hatao<br>
+• Normalization → saari values ek scale par laao (0 to 1)<br>
+• Encoding → text ko numbers mein badlo (Male=0, Female=1)`,
+    example:"Misaal: Agar kisi customer ki age missing hai toh baaki customers ki average age wahan rakh do — yeh 'imputation' kehlata hai.",
+    tags:["Handling nulls","Normalization","Encoding","Outlier removal","Data cleaning"]
+  },
+  {
+    num:3, label:"Features", color:"#854F0B", bg:"#FAEEDA", textColor:"#633806",
+    title:"Feature Engineering — Sahi Features Banana",
+    subtitle:"Model ke liye sahi 'clues' (features) tayyar karna",
+    body:`<b>Feature kya hota hai?</b> Wo column ya variable jo model ko seekhne mein help karta hai.<br><br>
+<b>Feature Engineering ke kaam:</b><br>
+• <b>Feature Selection</b> — sirf zaroori columns rakho, baaki hatao<br>
+• <b>Feature Creation</b> — naye columns banao (e.g. Age se "Senior/Junior")<br>
+• <b>Dimensionality Reduction</b> — PCA jaise techniques se data chota karo<br><br>
+<b>Kyon zaroori hai?</b> Zyada aur sahi features = behtar model. Ghalat features = kharab model — chahe algorithm kitna bhi acha ho.`,
+    example:"Misaal: Ghar ke liye sirf 'area' aur 'location' use karo, 'owner ka naam' nahi — woh prediction ke liye useless hai.",
+    tags:["Feature selection","PCA","One-hot encoding","Scaling","New columns"]
+  },
+  {
+    num:4, label:"Model", color:"#993C1D", bg:"#FAECE7", textColor:"#712B13",
+    title:"Modeling — Algorithm Chunna aur Train Karna",
+    subtitle:"Machine ko actual seekhne ka moka dena",
+    body:`<b>Kya hota hai?</b> Tayyar data ek algorithm ko diya jata hai. Woh algorithm patterns dhundh ke ek 'model' bana leta hai.<br><br>
+<b>Common algorithms:</b><br>
+• <b>Linear Regression</b> — numbers predict karna (ghar ki qeemat)<br>
+• <b>Logistic Regression</b> — haan/naa decide karna (spam ya nahi)<br>
+• <b>Decision Tree</b> — sawaal pooch ke decision lena<br>
+• <b>Random Forest</b> — bohat saare trees mil ke decide karte hain<br>
+• <b>Neural Networks</b> — dimagh jaisi structure, deep learning`,
+    example:"Misaal: 80% data se model train karo (yeh training data hai), baaki 20% bacha lo testing ke liye.",
+    tags:["Linear regression","Decision tree","Random forest","SVM","Neural nets"]
+  },
+  {
+    num:5, label:"Test", color:"#185FA5", bg:"#E6F1FB", textColor:"#0C447C",
+    title:"Testing & Evaluation — Model Ko Parakhna",
+    subtitle:"Kitna acha seekha? Numbers se check karo",
+    body:`<b>Kya karte hain?</b> Woh 20% data jo bachaya tha use model par test karte hain aur dekhte hain ke accuracy kaisi hai.<br><br>
+<b>Key metrics:</b><br>
+• <b>Accuracy</b> — 100 mein se kitne sahi (e.g. 92%)<br>
+• <b>Precision</b> — jab model ne "haan" kaha, kitni baar sach tha?<br>
+• <b>Recall</b> — jo saach mein "haan" the, kitne pakde?<br>
+• <b>F1 Score</b> — precision aur recall ka balance<br>
+• <b>Confusion Matrix</b> — sahi/ghalat predictions ka tabular view<br><br>
+<b>Overfitting watch karo!</b> Agar train accuracy 99% aur test 60% — model ne sirf training data yaad kiya, seekha nahi.`,
+    example:"Misaal: Agar spam detector 95% sahi pakdta hai lekin 10% genuine emails bhi spam mein dalta hai — yeh recall aur precision ka masla hai.",
+    tags:["Accuracy","Precision","Recall","F1 score","Cross-validation"]
+  },
+  {
+    num:6, label:"Deploy", color:"#3B6D11", bg:"#EAF3DE", textColor:"#27500A",
+    title:"Deployment — Real Duniya Mein Daalna",
+    subtitle:"Model tayyar hai — ab use live karo!",
+    body:`<b>Kya hota hai?</b> Trained model ko ek real application mein daala jata hai taake actual users use kar sakein.<br><br>
+<b>Deployment ke tareeqe:</b><br>
+• <b>REST API</b> — model ko web service bana do (Flask, FastAPI)<br>
+• <b>Cloud</b> — AWS, Google Cloud, Azure par host karo<br>
+• <b>Mobile app</b> — phone mein seedha run karo (TensorFlow Lite)<br>
+• <b>Edge devices</b> — camera ya sensor par directly<br><br>
+<b>Deployment ke baad bhi kaam hota hai:</b><br>
+• <b>Monitoring</b> — model ki performance track karo<br>
+• <b>Retraining</b> — naya data ata hai toh dobara train karo`,
+    example:"Misaal: Gmail ka spam model daily karoron emails par live run karta hai — yeh deployment hai. Aur jab naye spam patterns aate hain, retrain kiya jata hai.",
+    tags:["Flask API","Docker","Cloud deploy","Monitoring","A/B testing"]
+  }
+];
+
+let cur = 0;
+
+function render(){
+  const s = steps[cur];
+  document.getElementById('dots').innerHTML = steps.map((st,i)=>`
+    <div class="pip-dot ${i===cur?'active':i<cur?'done':''}" onclick="goto(${i})">${st.num}</div>
+  `).join('');
+  document.getElementById('card').innerHTML = `
+    <div class="pip-header">
+      <span class="pip-badge" style="background:${s.bg};color:${s.textColor}">Step ${s.num} / 6</span>
+      <span class="pip-title">${s.title}</span>
+    </div>
+    <div class="pip-subtitle">${s.subtitle}</div>
+    <div class="pip-body">${s.body}</div>
+    <div class="pip-example">${s.example}</div>
+    <div class="pip-tags">${s.tags.map(t=>`<span class="pip-tag">${t}</span>`).join('')}</div>
+    <div class="pip-nav">
+      <button class="pip-btn" onclick="move(-1)" ${cur===0?'disabled':''}>← Pehla Step</button>
+      <span class="pip-counter">${cur+1} / ${steps.length}</span>
+      <button class="pip-btn" onclick="move(1)" ${cur===steps.length-1?'disabled':''}>Agla Step →</button>
+    </div>
+  `;
+}
+function move(d){cur=Math.max(0,Math.min(steps.length-1,cur+d));render();}
+function goto(i){cur=i;render();}
+render();
+</script>

@@ -1,0 +1,9 @@
+"Questions to ask Before EDA"
+1: How big is the data?
+2: How does the data look like?
+3: What is the data type of columns?
+4: Are there any missing values?
+5: How does the data look mathematically?
+6: Are there duplicate values?
+7: How is the correlation between columns?
+

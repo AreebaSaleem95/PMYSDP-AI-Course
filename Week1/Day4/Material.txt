@@ -1,0 +1,13 @@
+🧠 Data Structures Kya Hoti Hain?
+
+Data ko organize aur store karne ka tareeqa.
+
+Python me common structures:
+
+List ✅
+
+Tuple ✅
+
+Set ✅
+
+Dictionary ✅

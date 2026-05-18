@@ -1,0 +1,12 @@
+*git --version
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/username/reponame.git
+git branch -M main
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m "merged remote changes"
+git push -u origin main
+git push -u origin main --force -> Ya wala use nahe krna
