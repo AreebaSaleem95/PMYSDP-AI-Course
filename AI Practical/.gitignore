@@ -1,0 +1,184 @@
+# Azure Content Safety Project - Git Ignore
+# ========================================
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Security
+config.py (if contains real credentials)
+*.key
+*.pem
+secrets.json
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+*.backup
+~*
+
+# Node (if adding web frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Editor
+.editorconfig
+
+# Flask
+instance/
+.webassets-cache
+*.sqlite
+instance/
+
+# Cache
+.cache/
+*.cache
+
+# Certificates
+*.crt
+*.pem
+*.key
+
+# API Keys and Credentials (MOST IMPORTANT)
+AZURE_API_KEY=*
+AZURE_ENDPOINT=*
+API_KEY=*
+
+# Personal notes
+personal_notes.txt
+notes.md
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Lint
+.pylint
+.flake8
+
+# Black formatting
+.black/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Docker
+docker-compose.override.yml
+Dockerfile.local
+
+# Kubernetes
+k8s/*.local.yml
+
+# Development
+dev_notes.txt
+TODO.txt
+scratch.py
+
+# Don't ignore these important files
+!requirements.txt
+!.gitkeep
+!README.md
+!.env.example
+
+# Azure specific
+*.publishsettings
+PublishSettings/
+
+# VS Code workspace settings (but keep extensions list)
+.vscode/settings.json
+.vscode/tasks.json
+
+# PyCharm
+.idea/workspace.xml
+.idea/tasks.xml
